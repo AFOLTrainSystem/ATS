@@ -1,7 +1,6 @@
 # ATS
 ATS - AFOL Train System for LEGO Trains
-
-Home page del progetto https://www.bricksandchips.it/afol-train-system/
+Repository "legacy"
 
 ## ESP8266-Firmware
 Firmware per nodo MQTT basato su ESP8266
@@ -20,4 +19,4 @@ Sorgenti e file stampabili (stl) per contenitori e box vari.
 * v2.0  - nuovo disegno Fusion 360 e nuovi STL (v.2.0.1 top ha l'incastro più lasco)
 
 ## doc
-Documentazione varia utile
+Home page originale del progetto https://www.bricksandchips.it/afol-train-system/
